@@ -1,0 +1,167 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Grids</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1>Grids</h1>
+        </header>
+        <main>
+            <section>
+                <h2>Grid with floats</h2>
+                <ul id="grid-floats">
+                    <li class="grid-item">
+                        <h3>6 Eksenli Drone + Kamera</h3>
+                        <img src="images/drone1.png">
+                        <p>Oyuncakçi Eddy’nin dronu yeesi ise 6 dakika.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Mavic Pro Fly More Combo</h3>
+                        <img src="images/drone2.png">
+                         <p dir="rtl">?????  ?????? ??????? ???? ?????? ???? ???? ???????? ??????? ??????? ????.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Phantom 4</h3>
+                        <img src="images/drone3.png">
+                        <p>De DJI Phantom 4 is een intelligente drongere vliegduur.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Phantom 3 Standard</h3>
+                        <img src="images/drone4.png">
+                        <p>Met een bereik va vanuit de lucht.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>YUNEEC Breeze 4K</h3>
+                        <img src="images/drone5.png">
+                        <p>De Breeze 4K van Yuneec is makke en prdeelden.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>SKEYE Nano Drone</h3>
+                        <img src="images/drone6.png">
+                        <p>Met de Nano Drone kan ie direct klaar om tiegen.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Spreading Wings S900</h3>
+                        <img src="images/drone7.png">
+                        <p>Met prachtige luchtfoto's en -video's m delden.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>Drone 6-AXIS + camera</h3>
+                        <img src="images/drone1.png">
+                        <p>De Eddy Toys Drone is een instap dron iinuten.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Mavic Pro Fly More Combo</h3>
+                        <img src="images/drone2.png">
+                        <p>Met de Mavic, die direct opvalt ijd ekhnieken.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Phantom 4</h3>
+                        <img src="images/drone3.png">
+                        <p>De DJI Pha4 indruk mee maakt. Wat dacveegduur.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Phantom 3 Standard</h3>
+                        <img src="images/drone4.png">
+                        <p>Met een bereik van 500 meter, een Fullucht.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>YUNEEC Breeze 4K</h3>
+                        <img src="images/drone5.png">
+                        <p>De Breeze 4K van Yuneec is makkelijk -lden.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>SKEYE Nano Drone</h3>
+                        <img src="images/drone6.png">
+                        <p>Met de Nano Drone kan iedereen heen.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Spreading Wings S900</h3>
+                        <img src="images/drone7.png">
+                        <p>Met prachtige luchtfon dergelijke beelden.</p>
+                    </li>
+                </ul>
+                
+            </section>
+            <section>
+                <h2>Grid with flexbox</h2>
+                <ul id="grid-flex">
+                    <li class="grid-item">
+                        <h3>Drone 6-AXIS + camera</h3>
+                        <img src="images/drone1.png">
+                        <p>Oyuncakçi Eddy’ni6 dakika.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Mavic Pro Fly More Combo</h3>
+                        <img src="images/drone2.png">
+                         <p dir="rtl">????? ????????? ??????? ????.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Phantom 4</h3>
+                        <img src="images/drone3.png">
+                        <p>De DJI  vliegdgjfgjfgjgjgkgsdgdhfuur.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Phantom 3 Standard</h3>
+                        <img src="images/drone4.png">
+                        <p>Met een bereik van 500 lucht.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>YUNEEC Breeze 4K</h3>
+                        <img src="images/drone5.png">
+                        <p>De Breeze 4K vade 4K-beelden.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>SKEYE Nano Drone</h3>
+                        <img src="images/drone6.png">
+                        <p>Met de Nano Dliegen.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Spreading Wings S900</h3>
+                        <img src="images/drone7.png">
+                        <p>Met prachtige luch van dergelijke beelden.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>Drone 6-AXIS + camera</h3>
+                        <img src="images/drone1.png">
+                        <p>De Eddy Toys Drone is e is 6 minuten.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Mavic Pro Fly More Combo</h3>
+                        <img src="images/drone2.png">
+                        <p>Met de Mavic, de vele ingebouwde technieken.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Phantom 4</h3>
+                        <img src="images/drone3.png">
+                        <p>De DJI Phantom en sportmodus en een noliegduur.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Phantom 3 Standard</h3>
+                        <img src="images/drone4.png">
+                        <p>Met een bereik vane mooiste opnames vanuilucht.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>YUNEEC Breeze 4K</h3>
+                        <img src="images/drone5.png">
+                        <p>De Breeze 4K van Yuneec -beelden.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>SKEYE Nano Drone</h3>
+                        <img src="images/drone6.png">
+                        <p>Met de Nano Droiegen.</p>
+                    </li>
+                    <li class="grid-item">
+                        <h3>DJI Spreading Wings S900</h3>
+                        <img src="images/drone7.png">
+                        <p>Met prachtige lucn van dergelijke beelden.</p>
+                    </li>
+                </ul>
+            </section>
+        </main>
+    </body>
+</html>
