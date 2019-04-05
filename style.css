@@ -63,7 +63,7 @@ body {
   margin: 0;
   text-align: left;
   font-size: 0;
-  animation: 15s slider infinite;
+  animation: 12s slider infinite;
 }
 
 .main-nav {
@@ -317,7 +317,7 @@ p.text {
 
   .info,
   table {
-    width: 100%;
+    width: 99%;
     height: auto;
     background: rgb(56, 138, 138);
     border-radius: 10px;
@@ -344,6 +344,16 @@ p.text {
   label {
     display: block;
     cursor: pointer;
+    border: solid 1px black;
+    border-radius: 5px;
+    width: 15%;
+    height: 6%;
+    margin: 4px;
+    text-align: center;
+    padding: 4px;
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 25px;
   }
 
   .main-nav {
